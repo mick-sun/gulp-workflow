@@ -1,0 +1,36 @@
+{
+  "name": "gulp-workflow",
+  "version": "0.1.0",
+  "description": "static web app workflow",
+  "keywords": [
+    "gulp-workflow",
+    "zce"
+  ],
+  "homepage": "https://github.com/zce/gulp-workflow#readme",
+  "bugs": {
+    "url": "https://github.com/zce/gulp-workflow/issues"
+  },
+  "license": "MIT",
+  "author": "孙伟 <mick.sunwei@qq.com>",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zce/gulp-workflow.git"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^13.1.0"
+  },
+  "engines": {
+    "node": ">=6"
+  }
+}
